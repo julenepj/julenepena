@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "spanishtoptechcompanies": {
+      "type": "sse",
+      "url": "https://spanishtoptechcompanies.com/mcp"
+    }
+  }
+}
